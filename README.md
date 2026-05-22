@@ -1,10 +1,3 @@
-
-
-<!--
-**sancharisaha-dev/sancharisaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 B.Tech CS '27 | Backend & AI Engineering Building with Node.js · Express · PostgreSQL · LangChain.js Exploring agentic AI systems and AI security<br>
 
